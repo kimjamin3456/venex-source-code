@@ -2,6 +2,10 @@
 Made by load 재판매 금지. 
 밑에 무조건 읽으셈
 
+venex\utils\bank.py : toss.me 자충 소스임. 
+계좌, 컬쳐 빼고 다 내가 짠 코드라 다 알음.
+팔다가 걸리면 죽음
+
 
 # I don't go.
 # Do not.
